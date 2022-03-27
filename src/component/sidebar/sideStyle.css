@@ -1,0 +1,19 @@
+/* .nav-link[data-toggle].collapsed:after {
+    content: " ▾";
+}
+.nav-link[data-toggle]:not(.collapsed):after {
+    content: " ▴";
+} */
+.sidebar{
+    height:100vh!important;
+ 
+
+    
+}
+/* .position{
+    position:fixed;
+} */
+a:hover{
+    background-color: grey;
+    color: black;
+}

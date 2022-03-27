@@ -1,0 +1,18 @@
+.left{
+    margin-left: 10px;
+}
+.outline{
+    outline:0;
+    border:0px;
+}
+.center{
+    margin-left:65%;
+    margin-top:5px;
+}
+.top{
+    margin-left:10px;
+    margin-top:5px;
+}
+.width{
+    width:399px!important;
+}
